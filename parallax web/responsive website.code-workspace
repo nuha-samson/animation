@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"name": "responsive website",
+		"path": "../../../Desktop/nnnn/responsive website"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Start Project Parallax Scrolling Website"
+  }
+}
